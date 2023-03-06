@@ -1,0 +1,53 @@
+.box{
+  width: 200px;
+  height: 300px;
+  background-color: rgb(248, 248, 248);
+  font-family: arial;
+  box-shadow: 1px 1px 10px 0.8px rgba(0, 0, 0, 0.2);
+  vertical-align: middle;
+  display: inline-block;
+  margin-left: 2.5px;
+  margin-right: 2.5px;
+}
+
+.thecat, .thedog{
+  width: 200px;
+  height: 200px;
+  object-fit: cover;
+}
+
+.name, .name1, .name2{
+  margin-top: 5px;
+  padding-left: 7px;
+  font-weight: bold;
+  margin-bottom: 0px;
+  font-size: 17px;
+}
+
+.stat, .stat1{
+  padding-left: 7px;
+  margin-top: 5px;
+  font-size: 14px;
+  color: rgb(73, 73, 73);
+  margin-bottom: 0;
+}
+
+.addfriendbutton{
+  margin-left: 7px;
+  margin-top: 10px;
+  padding-top: 5px;
+  padding-bottom: 5px;
+  color: white;
+  background-color: rgb(42, 90, 250);
+  border: none;
+  border-radius: 5px;
+  font-size: 12px;
+  width: 100px;
+  height: 30px
+}
+
+
+
+
+
+
